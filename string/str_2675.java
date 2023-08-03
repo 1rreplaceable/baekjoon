@@ -13,11 +13,9 @@ public class str_2675 {
 
 			for (int j = 0; j < s.length(); j++) {
 				for (int q = 0; q < r; q++) {
-					System.out.print(s.charAt(i));
+					System.out.print(s.charAt(j));
 				}
-			}
-
+			}System.out.println();
 		}
-
 	}
 }
